@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`06e5df7`](https://github.com/stdlib-js/stdlib/commit/06e5df79c7d8f12946d1dac18d7f632ee50fe780) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e471303`](https://github.com/stdlib-js/stdlib/commit/e4713031573224770645312bb3fa1002dfaafb2a) - **feat:** add `stats/strided/dsem` _(by Gururaj Gurram)_
 
 </details>
