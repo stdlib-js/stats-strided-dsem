@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-06-16)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`06e5df7`](https://github.com/stdlib-js/stdlib/commit/06e5df79c7d8f12946d1dac18d7f632ee50fe780) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e471303`](https://github.com/stdlib-js/stdlib/commit/e4713031573224770645312bb3fa1002dfaafb2a) - **feat:** add `stats/strided/dsem` _(by Gururaj Gurram)_
 
@@ -35,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
